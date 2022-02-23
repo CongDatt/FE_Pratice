@@ -1,0 +1,13 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.box:hover {
+    background-color: blueviolet;
+    transition: all 0.5s;
+}
+.box:active {
+    background-color: red;
+    transition: all 0.5s;
+}
