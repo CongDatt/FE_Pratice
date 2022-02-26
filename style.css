@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 .box {
-    width: 50%;
-    height: 100px;
-    background-color: chartreuse;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://img5.thuthuatphanmem.vn/uploads/2021/08/25/hinh-nen-may-tinh-4k-sa-mac_084707368.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
