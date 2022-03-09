@@ -3,8 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-.box {
-    width: 50%;
-    height: 100px;
+#btn-get {
     background-color: chartreuse;
+    height: 50px;
+    width: 150px;
+}
+#btn-post {
+    background-color: chocolate;
+    height: 50px;
+    width: 150px;
 }
