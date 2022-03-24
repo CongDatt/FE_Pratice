@@ -20,3 +20,7 @@ const sendData = () => {
 
 getBtn.addEventListener('click', getData)
 postBtn.addEventListener('click', sendData)
+
+(
+    console.log('congdat')
+)()
